@@ -1,0 +1,4 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"editor_collection_type","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"editor_collection_type","columnIdentifier":"column2"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"editor_collection_type","columnIdentifier":"column7"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"editor_collection_type","columnIdentifier":"column3"},{"tableIdentifier":"editor_collection_type","columnIdentifier":"column4"},{"tableIdentifier":"editor_collection_type","columnIdentifier":"column5"}]}}

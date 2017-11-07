@@ -1,0 +1,10 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column10"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column9"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link","columnIdentifier":"column11"}}

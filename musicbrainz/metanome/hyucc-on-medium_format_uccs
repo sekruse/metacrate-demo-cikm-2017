@@ -1,0 +1,3 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"medium_format","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"medium_format","columnIdentifier":"column2"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"medium_format","columnIdentifier":"column8"}]}}

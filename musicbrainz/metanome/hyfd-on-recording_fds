@@ -1,0 +1,16 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column9"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"recording","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"recording","columnIdentifier":"column9"}}

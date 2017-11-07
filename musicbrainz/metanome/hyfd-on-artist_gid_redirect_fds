@@ -1,0 +1,2 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_gid_redirect","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"artist_gid_redirect","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_gid_redirect","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"artist_gid_redirect","columnIdentifier":"column3"}}

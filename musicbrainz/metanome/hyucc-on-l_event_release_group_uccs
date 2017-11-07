@@ -1,0 +1,3 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_event_release_group","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_event_release_group","columnIdentifier":"column2"},{"tableIdentifier":"l_event_release_group","columnIdentifier":"column4"},{"tableIdentifier":"l_event_release_group","columnIdentifier":"column6"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_event_release_group","columnIdentifier":"column2"},{"tableIdentifier":"l_event_release_group","columnIdentifier":"column3"},{"tableIdentifier":"l_event_release_group","columnIdentifier":"column4"}]}}

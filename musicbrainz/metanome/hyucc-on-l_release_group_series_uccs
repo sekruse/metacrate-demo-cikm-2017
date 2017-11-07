@@ -1,0 +1,2 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_release_group_series","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_release_group_series","columnIdentifier":"column3"},{"tableIdentifier":"l_release_group_series","columnIdentifier":"column4"},{"tableIdentifier":"l_release_group_series","columnIdentifier":"column7"}]}}

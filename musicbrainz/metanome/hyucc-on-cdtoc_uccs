@@ -1,0 +1,3 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"cdtoc","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"cdtoc","columnIdentifier":"column2"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"cdtoc","columnIdentifier":"column5"},{"tableIdentifier":"cdtoc","columnIdentifier":"column6"}]}}

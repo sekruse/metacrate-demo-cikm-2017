@@ -1,0 +1,4 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"place","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"place","columnIdentifier":"column2"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"place","columnIdentifier":"column10"},{"tableIdentifier":"place","columnIdentifier":"column3"},{"tableIdentifier":"place","columnIdentifier":"column5"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"place","columnIdentifier":"column10"},{"tableIdentifier":"place","columnIdentifier":"column3"},{"tableIdentifier":"place","columnIdentifier":"column7"}]}}

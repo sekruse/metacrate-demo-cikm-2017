@@ -1,0 +1,1 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group_secondary_type_join","columnIdentifier":"column1"},{"tableIdentifier":"release_group_secondary_type_join","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group_secondary_type_join","columnIdentifier":"column3"}}

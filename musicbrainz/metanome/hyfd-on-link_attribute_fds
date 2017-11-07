@@ -1,0 +1,1 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link_attribute","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"link_attribute","columnIdentifier":"column3"}}

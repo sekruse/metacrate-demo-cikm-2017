@@ -1,0 +1,2 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_gid_redirect","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_gid_redirect","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_gid_redirect","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_gid_redirect","columnIdentifier":"column2"}}

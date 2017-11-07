@@ -1,0 +1,4 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"replication_control","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"replication_control","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"replication_control","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"replication_control","columnIdentifier":"column4"}}

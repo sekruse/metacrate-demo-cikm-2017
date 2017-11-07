@@ -1,0 +1,2 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"artist_ipi","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_ipi","columnIdentifier":"column1"},{"tableIdentifier":"artist_ipi","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"artist_ipi","columnIdentifier":"column4"}}

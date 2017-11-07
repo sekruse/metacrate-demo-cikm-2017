@@ -1,0 +1,3 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_series_url","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_series_url","columnIdentifier":"column4"},{"tableIdentifier":"l_series_url","columnIdentifier":"column6"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_series_url","columnIdentifier":"column3"},{"tableIdentifier":"l_series_url","columnIdentifier":"column4"}]}}

@@ -1,0 +1,2 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_url_work","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_url_work","columnIdentifier":"column2"},{"tableIdentifier":"l_url_work","columnIdentifier":"column3"},{"tableIdentifier":"l_url_work","columnIdentifier":"column4"}]}}

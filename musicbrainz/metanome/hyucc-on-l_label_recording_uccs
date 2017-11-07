@@ -1,0 +1,2 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_label_recording","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_label_recording","columnIdentifier":"column2"},{"tableIdentifier":"l_label_recording","columnIdentifier":"column3"},{"tableIdentifier":"l_label_recording","columnIdentifier":"column4"}]}}

@@ -1,0 +1,17 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column5"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column5"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column5"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column5"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_type","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"work_type","columnIdentifier":"column4"}}

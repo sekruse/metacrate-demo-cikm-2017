@@ -1,0 +1,3 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"artist_isni","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_isni","columnIdentifier":"column1"},{"tableIdentifier":"artist_isni","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"artist_isni","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_isni","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"artist_isni","columnIdentifier":"column1"}}

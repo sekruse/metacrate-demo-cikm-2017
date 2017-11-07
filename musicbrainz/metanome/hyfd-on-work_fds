@@ -1,0 +1,13 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work","columnIdentifier":"column3"},{"tableIdentifier":"work","columnIdentifier":"column7"}]},"dependant":{"tableIdentifier":"work","columnIdentifier":"column6"}}

@@ -1,0 +1,11 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column2"},{"tableIdentifier":"isrc","columnIdentifier":"column3"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column2"},{"tableIdentifier":"isrc","columnIdentifier":"column3"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column2"},{"tableIdentifier":"isrc","columnIdentifier":"column3"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column2"},{"tableIdentifier":"isrc","columnIdentifier":"column3"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"isrc","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"isrc","columnIdentifier":"column5"}}

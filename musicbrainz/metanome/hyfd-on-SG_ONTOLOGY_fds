@@ -1,0 +1,3 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"SG_ONTOLOGY.csv","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"SG_ONTOLOGY.csv","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"SG_ONTOLOGY.csv","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"SG_ONTOLOGY.csv","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"SG_ONTOLOGY.csv","columnIdentifier":"column1"}}

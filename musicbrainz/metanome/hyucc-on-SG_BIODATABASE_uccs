@@ -1,0 +1,6 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"SG_BIODATABASE.csv","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"SG_BIODATABASE.csv","columnIdentifier":"column2"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"SG_BIODATABASE.csv","columnIdentifier":"column3"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"SG_BIODATABASE.csv","columnIdentifier":"column4"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"SG_BIODATABASE.csv","columnIdentifier":"column5"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"SG_BIODATABASE.csv","columnIdentifier":"column6"}]}}

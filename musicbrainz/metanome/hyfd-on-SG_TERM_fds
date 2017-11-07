@@ -1,0 +1,7 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"SG_TERM.csv","columnIdentifier":"column6"}}

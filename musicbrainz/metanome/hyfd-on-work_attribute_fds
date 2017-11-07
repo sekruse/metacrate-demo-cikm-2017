@@ -1,0 +1,4 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_attribute","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_attribute","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_attribute","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_attribute","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_attribute","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_attribute","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"work_attribute","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"work_attribute","columnIdentifier":"column3"}}

@@ -1,0 +1,2 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"url_gid_redirect","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"url_gid_redirect","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"url_gid_redirect","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"url_gid_redirect","columnIdentifier":"column3"}}

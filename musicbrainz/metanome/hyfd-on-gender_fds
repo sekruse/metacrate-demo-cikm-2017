@@ -1,0 +1,14 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"gender","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"gender","columnIdentifier":"column4"}}

@@ -1,0 +1,13 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column9"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column4"},{"tableIdentifier":"l_event_work","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column4"},{"tableIdentifier":"l_event_work","columnIdentifier":"column6"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column3"},{"tableIdentifier":"l_event_work","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_event_work","columnIdentifier":"column3"},{"tableIdentifier":"l_event_work","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"l_event_work","columnIdentifier":"column6"}}

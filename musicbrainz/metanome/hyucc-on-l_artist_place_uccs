@@ -1,0 +1,2 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_artist_place","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_artist_place","columnIdentifier":"column2"},{"tableIdentifier":"l_artist_place","columnIdentifier":"column3"},{"tableIdentifier":"l_artist_place","columnIdentifier":"column4"}]}}

@@ -1,0 +1,1 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"link_attribute_credit","columnIdentifier":"column1"},{"tableIdentifier":"link_attribute_credit","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"link_attribute_credit","columnIdentifier":"column3"}}

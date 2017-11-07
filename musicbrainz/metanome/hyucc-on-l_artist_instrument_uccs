@@ -1,0 +1,2 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_artist_instrument","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"l_artist_instrument","columnIdentifier":"column3"},{"tableIdentifier":"l_artist_instrument","columnIdentifier":"column4"}]}}

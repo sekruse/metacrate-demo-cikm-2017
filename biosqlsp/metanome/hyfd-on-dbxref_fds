@@ -1,0 +1,4 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"dbxref.csv","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"dbxref.csv","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"dbxref.csv","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"dbxref.csv","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"dbxref.csv","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"dbxref.csv","columnIdentifier":"column2"},{"tableIdentifier":"dbxref.csv","columnIdentifier":"column3"}]},"dependant":{"tableIdentifier":"dbxref.csv","columnIdentifier":"column1"}}

@@ -1,0 +1,14 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"release_group","columnIdentifier":"column2"}]},"dependant":{"tableIdentifier":"release_group","columnIdentifier":"column7"}}

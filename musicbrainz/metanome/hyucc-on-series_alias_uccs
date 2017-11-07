@@ -1,0 +1,6 @@
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"series_alias","columnIdentifier":"column1"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"series_alias","columnIdentifier":"column6"},{"tableIdentifier":"series_alias","columnIdentifier":"column8"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"series_alias","columnIdentifier":"column2"},{"tableIdentifier":"series_alias","columnIdentifier":"column8"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"series_alias","columnIdentifier":"column3"},{"tableIdentifier":"series_alias","columnIdentifier":"column6"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"series_alias","columnIdentifier":"column2"},{"tableIdentifier":"series_alias","columnIdentifier":"column3"}]}}
+{"type":"UniqueColumnCombination","columnCombination":{"columnIdentifiers":[{"tableIdentifier":"series_alias","columnIdentifier":"column15"},{"tableIdentifier":"series_alias","columnIdentifier":"column4"},{"tableIdentifier":"series_alias","columnIdentifier":"column6"}]}}

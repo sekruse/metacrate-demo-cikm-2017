@@ -1,0 +1,10 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column7"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column8"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column9"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_place_place","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_place_place","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column6"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_place_place","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column3"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_place_place","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_place_place","columnIdentifier":"column2"},{"tableIdentifier":"l_place_place","columnIdentifier":"column3"},{"tableIdentifier":"l_place_place","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column1"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"l_place_place","columnIdentifier":"column2"},{"tableIdentifier":"l_place_place","columnIdentifier":"column4"}]},"dependant":{"tableIdentifier":"l_place_place","columnIdentifier":"column6"}}

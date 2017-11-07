@@ -1,0 +1,4 @@
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_credit","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"artist_credit","columnIdentifier":"column2"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_credit","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"artist_credit","columnIdentifier":"column5"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_credit","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"artist_credit","columnIdentifier":"column4"}}
+{"type":"FunctionalDependency","determinant":{"columnIdentifiers":[{"tableIdentifier":"artist_credit","columnIdentifier":"column1"}]},"dependant":{"tableIdentifier":"artist_credit","columnIdentifier":"column3"}}
